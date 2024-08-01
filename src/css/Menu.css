@@ -1,0 +1,28 @@
+.menu {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  .menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu ul li {
+    display: inline;
+  }
+  
+  .menu ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  
+  .menu ul li a:hover {
+    background-color: #575757;
+  }
+  
