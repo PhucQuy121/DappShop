@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DappShop/static/css/main.95c7e2ee.css",
+    "main.js": "/DappShop/static/js/main.dece8d55.js",
+    "static/js/453.419a5d54.chunk.js": "/DappShop/static/js/453.419a5d54.chunk.js",
+    "static/media/logo.jpg": "/DappShop/static/media/logo.d080c3deab3229fbe7b4.jpg",
+    "index.html": "/DappShop/index.html",
+    "main.95c7e2ee.css.map": "/DappShop/static/css/main.95c7e2ee.css.map",
+    "main.dece8d55.js.map": "/DappShop/static/js/main.dece8d55.js.map",
+    "453.419a5d54.chunk.js.map": "/DappShop/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95c7e2ee.css",
+    "static/js/main.dece8d55.js"
+  ]
+}
