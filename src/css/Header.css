@@ -1,0 +1,71 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.header .logo {
+  flex: 1;
+}
+
+.header .logo img {
+  height: 50px;
+  width: auto;
+  border-radius: 50%;
+}
+
+.header .search-bar {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+.header .search-bar input {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+}
+
+.header .search-bar button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #0056b3;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 0 4px 4px 0;
+}
+
+.header .search-bar button:hover {
+  background-color: #004494;
+}
+
+.header .auth-buttons {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header .auth-buttons a {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.header .auth-buttons button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #fff;
+  color: #007bff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.header .auth-buttons button:hover {
+  background-color: #e6e6e6;
+}
